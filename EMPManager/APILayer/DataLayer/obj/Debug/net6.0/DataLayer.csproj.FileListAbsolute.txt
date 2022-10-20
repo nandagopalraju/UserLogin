@@ -1,0 +1,15 @@
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\2.Projects\EMPManager\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\2.Projects\EMPManager\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\2.Projects\EMPManager\APILayer\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\2.Projects\EMPManager\APILayer\DataLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\2.Projects\EMPManager\APILayer\DataLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\2.Projects\EMPManager\APILayer\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

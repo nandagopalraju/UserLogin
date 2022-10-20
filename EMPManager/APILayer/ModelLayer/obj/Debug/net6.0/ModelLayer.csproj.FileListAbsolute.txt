@@ -1,0 +1,12 @@
+D:\2.Projects\EMPManager\APILayer\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\2.Projects\EMPManager\APILayer\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\2.Projects\EMPManager\APILayer\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\2.Projects\EMPManager\APILayer\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
